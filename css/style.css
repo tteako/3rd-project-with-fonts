@@ -26,13 +26,14 @@
 	vertical-align: text-top;
 	margin-left: 40px;
 	margin-top: 30px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 
 }
 
 .links {
 	display: inline-block;
 	padding-right: 18px;
-	font-family:BPGNinoMtavruli-Bold;
+	font-family: font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 22px;
 
 }
@@ -50,25 +51,27 @@
 
 .index-title {
 	font-size: 24px;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;;
 	margin-left: 98px;
 }
  .article-title {
- 	font-size: 24px;
-	font-family: Roboto;
+ 	font-size: 22px;
+	font-family: 'Roboto', sans-serif;;
 	margin-top: 41px;
 	margin-left: 98px;
 	color: #3D58A6;
 }
 
 .index-1{
-	display:inline-block;
+	display: inline-block;
 	vertical-align: top;
 	background-color: #F2F2F2;
+	margin-left: 98px;
+	width: 570px;
 }
 
 .hand {
- 	margin-left: 98px;
+ 	/*margin-left: 98px;*/
  	margin-top: 13px;
  	display: inline-block;
  	vertical-align: top;
@@ -78,7 +81,7 @@
  	display: inline-block;
  	vertical-align: top;
  	margin-top: 13px;
- 	font-family: Roboto;
+ 	font-family:'Roboto', sans-serif;;
  	font-size: 20px;
  	margin-left: 20px;
  	width: 355px;
@@ -90,28 +93,23 @@
 	vertical-align: top;
 	background-color: #F2F2F2;
 	margin: 0px 0px 0px 29px;
-	/*font-size: 24px;
-	font-family: Roboto;
-	color: #3D58A6;*/
+	width: 570px;
+	
 }
 
 
-.phone {
+.mobile {
 	display: inline-block;
 	vertical-align: top;
 }
 
-/*.index-article2 {
-	display: inline-block;
- 	vertical-align: top;
 
-}*/
 
 /*news page*/
 
 .date {
 	background-color: #3D58A6;
-	font-family: BPGNinoMtavruli;
+	font-family: font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 48px;
 	color: white;
 	width: 54px;
@@ -122,14 +120,14 @@
 
 .month {
 	font-color: #3D58A6;
-	font-family: BPGNinoMtavruli;
+	font-family:  "BPG Nino Mtavruli", sans-serif;
 	font-size: 22px;
 	margin: 5px 0px 28px 30px;
 
 }
 
 .news1 {
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 20px;
 	margin: 0px 0px 18px 30px;
 }
@@ -148,6 +146,7 @@
 	font-size: 16px;
 	text-align: left;
 	margin: 0px 80px 0px 39px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
 
 .comp-img {
@@ -162,6 +161,7 @@
 	width: 929px;
 	vertical-align: top;
 	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
 
 
 }
@@ -179,6 +179,7 @@
 	width: 929px;
 	vertical-align:top;
 	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
      
 }
 
@@ -189,6 +190,7 @@
 
 .background {
 	background-color: #E6E6E6;
+
 }
 
 
@@ -211,13 +213,13 @@
 
 .contact-color1 {
 	color: #3D58A6;
-	font-family:BPGIngiriArial;
+	font-family: font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 20px;
 }
 
 .contact-color2 {
 	color: #808080;
-	font-family:BPGIngiriArial;
+	font-family: "BPG Ingiri Arial", sans-serif;
 	font-size: 20px;
 
 }
