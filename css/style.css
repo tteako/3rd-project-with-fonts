@@ -13,7 +13,7 @@
 
 .logo-margin {
 	display: inline-block;
-	vertical-align: text-top;
+	vertical-align: middle;
 	/*margin: 30px 40px 72px 30px;*/
 	margin-top: 30px;
 	margin-bottom: 72px;
@@ -23,9 +23,10 @@
 
 .nav {
 	display: inline-block;
-	vertical-align: text-top;
+	vertical-align: middle;
 	margin-left: 40px;
 	margin-top: 30px;
+	margin-bottom: 72px;
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 
 }
@@ -45,13 +46,36 @@
 
 	width: 1170px;
 	margin: 52px 98px 117px 98px;
+}
+
+.container {
+	position: relative;
+	display: inline-block;
+	
+ }
+.banner-text{
+	margin: 55px 98px 117px 98px;
+	position: absolute;
+	top: 40px;
+	left: 50px;
 
 }
 
+.top-left-text {
+	width: 425px;
+	color: white;
+	font-size: 30px;
+}
+
+
+
 .index-title {
 	font-size: 24px;
-	font-family: 'Roboto', sans-serif;;
+	font-family: 'Roboto', sans-serif;
 	margin-left: 98px;
+	
+	
+
 }
  .article-title {
  	font-size: 22px;
@@ -70,8 +94,7 @@
 }
 
 .hand {
- 	/*margin-left: 98px;*/
- 	margin-top: 13px;
+ 	
  	display: inline-block;
  	vertical-align: top;
  }
