@@ -49,6 +49,7 @@
 }
 
 .container {
+	width: 1170px;
 	position: relative;
 	display: inline-block;
 	
